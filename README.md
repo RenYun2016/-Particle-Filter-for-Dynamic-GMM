@@ -14,6 +14,6 @@ To compile the code (only for Windows):
 
 3. Run **demo.m** to show the fixations in video
 
-'01.avi' for test. 
+'01.avi' for test. For more videos, please contact "yunren@buaa.edu.cn".
 
 
